@@ -3,10 +3,11 @@
 ### 🛠️ My Tech Stack
 
 #### 🚀 Languages & Frameworks
-![Go](https://shields.io) ![Python](https://shields.io) ![C++](https://shields.io) ![Flutter](https://shields.io)
+<img src="https://githubusercontent.com" alt="Go" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="Python" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="C++" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="Flutter" width="40" height="40" />
 
 #### ☁️ Cloud, Deployment & Databases
-![AWS](https://shields.io) ![Docker](https://shields.io) ![PostgreSQL](https://shields.io) ![Redis](https://shields.io)
+<img src="https://githubusercontent.com" alt="AWS" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="Docker" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="PostgreSQL" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="Redis" width="40" height="40" />
 
 #### 🧰 Tools
-![Git](https://shields.io) ![GitHub](https://shields.io) ![VS Code](https://shields.io) ![DataGrip](https://shields.io)
+<img src="https://githubusercontent.com" alt="Git" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="GitHub" width="40" height="40" /> &nbsp; <img src="https://githubusercontent.com" alt="VS Code" width="40" height="40" /> 
+
