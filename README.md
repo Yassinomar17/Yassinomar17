@@ -3,4 +3,4 @@
 * **Languages:** Go, Python, C++, JavaScript, HTML, CSS, 
 * **Frameworks:** Flutter
 * **Cloud, Deployment and database:** AWS, Docker, PostgreSQL, Redis
-* **Tools:** Git, GitKraken, GitHub, VS Code, Datagrip
+* **Tools:** Git, SourceTree, GitHub, VS Code, Datagrip
