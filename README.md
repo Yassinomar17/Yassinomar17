@@ -1,6 +1,6 @@
 # 👋 Hi, I'm a Developer! 
 ### 🛠️ My Tech Stack 
-* **Languages:** Go, Python, C++, JavaScript, HTML, CSS, 
+* **Languages:** Go, Python, Rust
 * **Frameworks:** Flutter
-* **Cloud, Deployment and database:** AWS, Docker, PostgreSQL, Redis
-* **Tools:** Git, SourceTree, GitHub, VS Code, Datagrip
+* **Cloud, Deployment and database:** AWS, Docker, PostgreSQL, Valkey
+* **Tools:** Git, SourceTree, GitHub, VS Code
